@@ -1,0 +1,29 @@
+_repo: Take-a-Can-of-Salmon_62846
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Bureau of Commercial Fisheries
+    aliases:
+    - B.C.F. (Bureau of Commercial Fisheries)
+    - BCF (Bureau of Commercial Fisheries)
+    - United States. Department of the Interior. Bureau of Commercial Fisheries
+    - U.S. Fish and Wildlife Service. Bureau of Commercial Fisheries
+    gutenberg_agent_id: '52136'
+    url: http://www.gutenberg.org/2009/agents/52136
+description: ''
+gutenberg_issued: '2020-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Circular (U.S. Fish and Wildlife Service); 60.
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking (Canned foods)'
+- !lcsh 'Cooking (Salmon)'
+- GITenberg
+title: Take a Can of Salmon
+url: http://www.gutenberg.org/ebooks/62846
